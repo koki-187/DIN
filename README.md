@@ -1,8 +1,8 @@
-# kimu-nii
+# DIN
 
 DIN会に降臨したキム兄（株式会社GEMIOR代表 木村昌弘氏）の紹介ページ。
 
-🔗 **公開URL**: https://koki-187.github.io/kimu-nii/
+🔗 **公開URL**: https://koki-187.github.io/DIN/
 
 ## 構成
 
